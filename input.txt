@@ -1,0 +1,8 @@
+// приклад
+a = 2 + 3 * 4;
+b = (a - 4) ^ 2 / 5;
+c = -a % 5 + b;
+print a;
+print b;
+print c;
+print -2 ^ 2;
